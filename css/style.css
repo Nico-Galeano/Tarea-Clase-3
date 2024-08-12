@@ -1,0 +1,34 @@
+/*
+    color-primario: #ffe4c4;
+    color-securndario: #7fffd4;
+    color-terciario: #b100b1;
+    color-cuarto: #ff0000;
+*/
+body {
+    background-color: #ffe4c4;
+}
+
+.recuadro-navegador {
+    padding: 1%;
+    background-color: #7fffd4;
+    text-align:left;
+}
+
+.texto-navegador {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #b100b1;
+    text-decoration: none;
+}
+
+.recuadro-formulario {
+    padding: 5%;
+    background-color: #7fffd4;
+}
+
+.texto-formulario {
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;
+    color: #b100b1;
+    text-decoration: none;
+}
